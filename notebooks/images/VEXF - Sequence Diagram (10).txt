@@ -1,0 +1,12 @@
+title Monitoring IoT Devices that require Privacy-Presevation and Data Collection
+
+participant Request Broker
+participant Wireless Driver
+participant Driver 2
+
+Request Broker->Wireless Driver:REQUEST
+Wireless Driver->Driver 2:IOCTL REQUEST
+Wireless Driver<-Driver 2:
+Request Broker<--Wireless Driver:HANDSHAKE
+
+Request Broker<-Wireless Driver:RESPONSE
