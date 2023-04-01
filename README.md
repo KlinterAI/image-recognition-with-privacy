@@ -1,3 +1,5 @@
+![https://github.com/KlinterAI/image-recognition-with-privacy/raw/main/notebooks/images/VEXF%20-%20Logo.jpg](https://github.com/KlinterAI/image-recognition-with-privacy/raw/main/notebooks/images/VEXF%20-%20Logo.jpg)
+
 # Image Recognition with Privacy
 
 - eBPF Observability Platform
