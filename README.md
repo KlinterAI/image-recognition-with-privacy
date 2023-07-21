@@ -250,7 +250,7 @@ omz_model_downloader --name "text-spotting-*" --output_dir "./models/"
 
 ## VEXF (Vision Exchange Format) Method
 
-![./notebooks/images/VEXF - Sequence Diagram.png](./notebooks/images/VEXF%20-%20Sequence%20Diagram.png)
+![./notebooks/images/request_filesystem.png](./notebooks/images/request_filesystem.png)
 
 ### Tests Conducted
 
